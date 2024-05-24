@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">Senior Android developer. Proficient in Kotlin, Java, JetPack Compose. Team player and quick learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehmannazar&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmannazar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdulrehmannazar&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmannazar" /> </p>
 
 - 🔭 I’m currently working on [Salony](https://play.google.com/store/apps/details?id=com.salony.android)
 
