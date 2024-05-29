@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **a.rehman.nazar@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/2wr4r2uf](https://tinyurl.com/2wr4r2uf)
+- 📄 Know about my experiences [https://abdulrehmannazar.github.io/](https://abdulrehmannazar.github.io/)
 
 - ⚡ Fun fact **I think I am very good team contributor.**
 
