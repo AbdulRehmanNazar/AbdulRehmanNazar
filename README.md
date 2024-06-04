@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://abdulrehmannazar.github.io/](https://abdulrehmannazar.github.io/)
 
-- ⚡ Fun fact **I think I am very good team contributor.**
+- ⚡ Fun fact **I think I funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
