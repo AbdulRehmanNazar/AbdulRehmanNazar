@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://momin-tahir.io)
 
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">Senior Android developer. Proficient in Kotlin, Java, JetPack Compose. Team player and quick learner.</h3>
+<h3 align="center">Senior Android and Kotlin Multiplatform developer. Proficient in Kotlin, Java, JetPack Compose, Compose Multiplatform. Team player and quick learner.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdulrehmannazar&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmannazar" /> </p>
 
