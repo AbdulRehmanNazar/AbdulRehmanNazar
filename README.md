@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Salony](https://play.google.com/store/apps/details?id=com.salony.android)
 
-- 🌱 I’m currently learning **Compose,Jetpack,KMP,KMM**
+- 🌱 I’m currently learning **Compose,Jetpack,KMP,KMM, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/arehmannazar/](https://www.linkedin.com/in/arehmannazar/)
 
-- 💬 Ask me about **Android tech stack**
+- 💬 Ask me about **Android, Flutter and KMP tech stack**
 
 - 📫 How to reach me **a.rehman.nazar@gmail.com**
 
