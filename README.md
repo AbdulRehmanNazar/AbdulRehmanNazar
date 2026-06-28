@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdulrehmannazar&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmannazar" /> </p>
 
-- 🔭 I’m currently working on [Salony](https://play.google.com/store/apps/details?id=com.salony.android)
+- 🔭 I’m currently working as Independent Contractor
 
 - 🌱 I’m currently learning **Compose,Jetpack,KMP,KMM, Flutter**
 
